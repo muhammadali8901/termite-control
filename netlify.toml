@@ -1,2 +1,6 @@
+[build]
+  command = "node scripts/generate-sitemap.js && node scripts/minify-assets.js"
+  publish = "dist"
+
 [build.processing.html]
-pretty_urls = true
+  pretty_urls = true
