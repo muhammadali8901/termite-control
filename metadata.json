@@ -16,7 +16,7 @@
   },
   "contact.html": {
     "title": "Contact Termite Control Paterson | pest control in Paterson",
-    "description": "Contact Termite Control near me in Paterson NJ for prompt service. Call us at +1 (862) 475-0111 for expert termite control and pest solutions.",
+    "description": "Contact Termite Control near me in Paterson NJ for prompt service. Call us at +1 (862) 288-2865 for expert termite control and pest solutions.",
     "schemas": []
   },
   "index.html": {
@@ -29,7 +29,7 @@
         "@id": "https://termitecontrolpaterson.online/#localbusiness",
         "name": "Termite Control Paterson",
         "url": "https://termitecontrolpaterson.online/",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "description": "At Termite Control Paterson, we specialize in delivering top-notch termite control services to the residents of Paterson, New Jersey. With years of experience, we ensure that your home is protected from termite infestations using the latest techniques and technologies.",
         "address": {
           "@type": "PostalAddress",
@@ -190,10 +190,12 @@
               "Tuesday",
               "Wednesday",
               "Thursday",
-              "Friday"
+              "Friday",
+              "Saturday",
+              "Sunday"
             ],
-            "opens": "08:00",
-            "closes": "18:00"
+            "opens": "05:00",
+            "closes": "23:00"
           }
         ],
         "priceRange": "$",
@@ -300,7 +302,7 @@
             "name": "How much does Termite Control cost in Paterson?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "The cost of termite control in Paterson can vary based on the extent of the infestation and the treatment required. We provide free estimates to help you understand your options."
+              "text": "The cost of termite control in Paterson can vary based on the extent of the infestation and the treatment required. We provide transparent consultations to help you understand your options."
             }
           },
           {
@@ -368,7 +370,7 @@
           "@type": "LocalBusiness",
           "@id": "https://termitecontrolpaterson.online/#localbusiness",
           "name": "Termite Control Paterson",
-          "telephone": "+1 (862) 475-0111"
+          "telephone": "+1 (862) 288-2865"
         },
         "areaServed": {
           "@type": "AdministrativeArea",
@@ -385,7 +387,7 @@
         "@type": "LocalBusiness",
         "@id": "https://termitecontrolpaterson.online/#localbusiness",
         "name": "Termite Control Paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "5.0",
@@ -516,7 +518,7 @@
           "@type": "LocalBusiness",
           "@id": "https://termitecontrolpaterson.online/#localbusiness",
           "name": "Termite Control Paterson",
-          "telephone": "+1 (862) 475-0111"
+          "telephone": "+1 (862) 288-2865"
         },
         "areaServed": {
           "@type": "AdministrativeArea",
@@ -533,7 +535,7 @@
         "@type": "LocalBusiness",
         "@id": "https://termitecontrolpaterson.online/#localbusiness",
         "name": "Termite Control Paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "5.0",
@@ -664,7 +666,7 @@
           "@type": "LocalBusiness",
           "@id": "https://termitecontrolpaterson.online/#localbusiness",
           "name": "Termite Control Paterson",
-          "telephone": "+1 (862) 475-0111"
+          "telephone": "+1 (862) 288-2865"
         },
         "areaServed": {
           "@type": "AdministrativeArea",
@@ -681,7 +683,7 @@
         "@type": "LocalBusiness",
         "@id": "https://termitecontrolpaterson.online/#localbusiness",
         "name": "Termite Control Paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "5.0",
@@ -812,7 +814,7 @@
           "@type": "LocalBusiness",
           "@id": "https://termitecontrolpaterson.online/#localbusiness",
           "name": "Termite Control Paterson",
-          "telephone": "+1 (862) 475-0111"
+          "telephone": "+1 (862) 288-2865"
         },
         "areaServed": {
           "@type": "AdministrativeArea",
@@ -829,7 +831,7 @@
         "@type": "LocalBusiness",
         "@id": "https://termitecontrolpaterson.online/#localbusiness",
         "name": "Termite Control Paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "5.0",
@@ -960,7 +962,7 @@
           "@type": "LocalBusiness",
           "@id": "https://termitecontrolpaterson.online/#localbusiness",
           "name": "Termite Control Paterson",
-          "telephone": "+1 (862) 475-0111"
+          "telephone": "+1 (862) 288-2865"
         },
         "areaServed": {
           "@type": "AdministrativeArea",
@@ -977,7 +979,7 @@
         "@type": "LocalBusiness",
         "@id": "https://termitecontrolpaterson.online/#localbusiness",
         "name": "Termite Control Paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "5.0",
@@ -1108,7 +1110,7 @@
           "@type": "LocalBusiness",
           "@id": "https://termitecontrolpaterson.online/#localbusiness",
           "name": "Termite Control Paterson",
-          "telephone": "+1 (862) 475-0111"
+          "telephone": "+1 (862) 288-2865"
         },
         "areaServed": {
           "@type": "AdministrativeArea",
@@ -1125,7 +1127,7 @@
         "@type": "LocalBusiness",
         "@id": "https://termitecontrolpaterson.online/#localbusiness",
         "name": "Termite Control Paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "5.0",
@@ -1256,7 +1258,7 @@
           "@type": "LocalBusiness",
           "@id": "https://termitecontrolpaterson.online/#localbusiness",
           "name": "Termite Control Paterson",
-          "telephone": "+1 (862) 475-0111"
+          "telephone": "+1 (862) 288-2865"
         },
         "areaServed": {
           "@type": "AdministrativeArea",
@@ -1273,7 +1275,7 @@
         "@type": "LocalBusiness",
         "@id": "https://termitecontrolpaterson.online/#localbusiness",
         "name": "Termite Control Paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "5.0",
@@ -1404,7 +1406,7 @@
           "@type": "LocalBusiness",
           "@id": "https://termitecontrolpaterson.online/#localbusiness",
           "name": "Termite Control Paterson",
-          "telephone": "+1 (862) 475-0111"
+          "telephone": "+1 (862) 288-2865"
         },
         "areaServed": {
           "@type": "AdministrativeArea",
@@ -1421,7 +1423,7 @@
         "@type": "LocalBusiness",
         "@id": "https://termitecontrolpaterson.online/#localbusiness",
         "name": "Termite Control Paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "5.0",
@@ -1552,7 +1554,7 @@
           "@type": "LocalBusiness",
           "@id": "https://termitecontrolpaterson.online/#localbusiness",
           "name": "Termite Control Paterson",
-          "telephone": "+1 (862) 475-0111"
+          "telephone": "+1 (862) 288-2865"
         },
         "areaServed": {
           "@type": "AdministrativeArea",
@@ -1569,7 +1571,7 @@
         "@type": "LocalBusiness",
         "@id": "https://termitecontrolpaterson.online/#localbusiness",
         "name": "Termite Control Paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "5.0",
@@ -1696,7 +1698,7 @@
         "@id": "https://termitecontrolpaterson.online/locations/termite-control-in-downtown-paterson#localbusiness",
         "name": "Termite Control Paterson — Downtown Paterson",
         "url": "https://termitecontrolpaterson.online/locations/termite-control-in-downtown-paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "178 Beaver Run Rd",
@@ -2020,7 +2022,7 @@
         "@id": "https://termitecontrolpaterson.online/locations/termite-control-in-hillcrest#localbusiness",
         "name": "Termite Control Paterson — Hillcrest",
         "url": "https://termitecontrolpaterson.online/locations/termite-control-in-hillcrest",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "178 Beaver Run Rd",
@@ -2344,7 +2346,7 @@
         "@id": "https://termitecontrolpaterson.online/locations/termite-control-in-riverside#localbusiness",
         "name": "Termite Control Paterson — Riverside",
         "url": "https://termitecontrolpaterson.online/locations/termite-control-in-riverside",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "178 Beaver Run Rd",
@@ -2595,7 +2597,7 @@
             "name": "How much does Termite Control cost in Riverside?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "The cost of Termite Control in Riverside varies based on the size of your home and the extent of the infestation. We provide free estimates to give you a clear idea of the potential costs involved."
+              "text": "The cost of Termite Control in Riverside varies based on the size of your home and the extent of the infestation. We provide transparent consultations to give you a clear idea of the potential costs involved."
             }
           },
           {
@@ -2668,7 +2670,7 @@
         "@id": "https://termitecontrolpaterson.online/locations/termite-control-in-south-paterson#localbusiness",
         "name": "Termite Control Paterson — South Paterson",
         "url": "https://termitecontrolpaterson.online/locations/termite-control-in-south-paterson",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "178 Beaver Run Rd",
@@ -2919,7 +2921,7 @@
             "name": "How much does Termite Control cost in South Paterson?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "The cost of Termite Control in South Paterson varies based on factors like property size and infestation severity. We provide free estimates to help you understand potential costs."
+              "text": "The cost of Termite Control in South Paterson varies based on factors like property size and infestation severity. We provide transparent consultations to help you understand potential costs."
             }
           },
           {
@@ -2992,7 +2994,7 @@
         "@id": "https://termitecontrolpaterson.online/locations/termite-control-in-totowa-section#localbusiness",
         "name": "Termite Control Paterson — Totowa Section",
         "url": "https://termitecontrolpaterson.online/locations/termite-control-in-totowa-section",
-        "telephone": "+1 (862) 475-0111",
+        "telephone": "+1 (862) 288-2865",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "178 Beaver Run Rd",
